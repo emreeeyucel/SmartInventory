@@ -1,5 +1,5 @@
 Bu uygulama, MongoDB veritabanı kullanarak kategori yönetimini sağlayan bir sistemdir ve CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemleri ile veri yönetimini etkin bir şekilde gerçekleştirir. Uygulama aşağıdaki bileşenleri içerir:
-
+**fs**
 Modüller:
 Status Enum: Kategorilerin durumlarını tanımlar (Active, Modified, Passive).
 BaseEntity Sınıfı: Veritabanı belgeleri için ortak özellikler sunar, örneğin durum, oluşturulma tarihi, makine adı ve IP adresi gibi bilgileri yönetir.
